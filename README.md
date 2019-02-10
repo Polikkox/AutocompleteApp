@@ -1,2 +1,4 @@
-# AutocompleteApp
-Autocomplete app using Tries
+# Tries exercise
+
+See Canvas for details!
+
